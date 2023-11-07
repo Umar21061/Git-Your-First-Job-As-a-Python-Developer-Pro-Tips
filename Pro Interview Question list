@@ -1,0 +1,58 @@
+1. What is Python, and how does it differ from other programming languages?
+
+2. Explain the differences between Python 2 and Python 3.
+
+3. How does memory management work in Python?
+
+4. What is PEP 8, and why is it important in Python development?
+
+5. What are the different data types in Python, and can you give examples of each?
+
+6. How does Python's garbage collection work, and why is it important?
+
+7. What is the Global Interpreter Lock (GIL), and how does it affect Python multithreading?
+
+8. Explain the concept of a Python virtual environment and why it is useful.
+
+9. How do you handle exceptions in Python, and what are the common built-in exception types?
+
+10. What are decorators in Python, and how can you use them in your code?
+
+11. What is the purpose of the `__init__.py` file in a Python package?
+
+12. Describe the difference between shallow copy and deep copy in Python.
+
+13. How can you improve the performance of a Python program?
+
+14. What is the difference between a list and a tuple in Python?
+
+15. Explain the Global and Local scope in Python.
+
+16. What is the purpose of the `if __name__ == "__main__"` statement in a Python script?
+
+17. How do you work with files in Python? Explain file modes and how to open, read, and write to files.
+
+18. What is the difference between a function and a method in Python?
+
+19. Can you explain how the Python `map()` and `filter()` functions work?
+
+20. Describe the use of list comprehensions in Python and provide an example.
+
+21. What is a lambda function in Python, and when would you use one?
+
+22. How do you work with regular expressions in Python? Provide an example.
+
+23. Explain the difference between shallow and deep copy in Python.
+
+24. What is the Global Interpreter Lock (GIL), and how does it impact Python's performance in multi-threaded applications?
+
+25. Can you explain the purpose and use of the `pickle` module in Python?
+
+26. Describe the differences between the `range()` and `xrange()` functions in Python.
+
+27. What is a generator in Python, and how does it differ from a regular function?
+
+28. Explain the purpose and usage of Python's context managers.
+
+29. What are Python's main advantages and disadvantages as a programming language?
+
